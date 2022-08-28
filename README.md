@@ -1,5 +1,5 @@
 # findPath
-LeetCode challenge [findPath](https://leetcode.com/playground/LhwrauHo)
+LeetCode challenge [findPath](https://leetcode.com/playground/MgMjJ5Ey)
 
 - Write method findPath
 - Should take two params:
